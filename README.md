@@ -52,7 +52,7 @@ pip install numpy matplotlib picos
 - For new truss geometries, modify the node and element definitions in the main script.
 
 ## Reference
-- Original reference notebook: [peak_power.ipynb](https://gitlab.com/ma.shenyuan/truss_exp/-/blob/main/example/peak_power.ipynb)
+- Original reference notebook(which doesnot work as intended): [peak_power.ipynb](https://gitlab.com/ma.shenyuan/truss_exp/-/blob/main/example/peak_power.ipynb)
 
 ## Contact
-For questions or contributions, please open an issue or contact the repository maintainer. 
+For questions or contributions, please open an issue or contact me. 
