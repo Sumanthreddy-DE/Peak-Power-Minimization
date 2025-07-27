@@ -34,9 +34,6 @@ This repository provides a modular and well-documented implementation for truss 
 - The code is modular: you can easily swap out or extend optimization and plotting routines.
 
 ## Dependencies
-- Python 3.x
-- `numpy`
-- `matplotlib`
 - `picos` (for optimization)
 - `mosek` (solver, or another compatible solver)
 
